@@ -12,8 +12,6 @@ To be used in the right hand.
 
 ### [Demonstration Video (SFW)](https://www.youtube.com/watch?v=5V_SXpUnVo4) 
 
-### [360 Video (SFW)](Images/Renders/OSSM%20Remote%20Reimagined.avi)  
-
 
 ### Bill Of Materials
     2x M4-10mm
