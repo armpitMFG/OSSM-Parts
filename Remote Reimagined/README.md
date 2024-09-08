@@ -4,6 +4,8 @@
 Reimagines the OSSM Remote in single-handed form factor allowing control of Speed and Depth knobs (and click) with just one thumb.  
 To be used in the right hand.
 
+"Fail-safe" by still allowing traditional use of both knobs.
+
 ### [Print Files](Files/)  
 
 ### [Demonstration Video (SFW)](https://www.youtube.com/watch?v=5V_SXpUnVo4) 
