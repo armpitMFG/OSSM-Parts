@@ -18,6 +18,7 @@ To be used in the right hand.
     ~80mm x ~4mm rubber band
 
 ### Notes:
+ - Double check ***ALL*** support remnants are cleaned off the screen frame portion of the Board Interface before tightening down
  - I found that putting a single twist in the rubberband substantially improves grip between the knobs.
  - There is room for improvement in filament usage and ergonomics for the Bottom, feel free to contribute designs!
 
