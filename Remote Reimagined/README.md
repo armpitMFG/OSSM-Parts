@@ -22,6 +22,7 @@ To be used in the right hand.
  - There is room for improvement in filament usage and ergonomics for the Bottom, feel free to contribute designs!
 
 ### Updates:
+  - 09.08.2024 - Add **Accent Stripe** file
   - 09.07.2024 - v1 released
 
 ![](Images/Renders/Complete%20View.png)
