@@ -1,5 +1,7 @@
 # OSSM Remote Reimagined
 ![](Images/Renders/Remote%20Only.png)
+![360 Video (SFW)](Images/Renders/OSSM%20Remote%20Reimagined.gif)
+
 ## Summary    
 Reimagines the OSSM Remote in single-handed form factor allowing control of Speed and Depth knobs (and click) with just one thumb.  
 To be used in the right hand.
