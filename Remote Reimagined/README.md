@@ -17,6 +17,9 @@ To be used in the right hand.
     2x M4-10mm
     ~80mm x ~4mm rubber band
 
+### Notes:
+ - I found that putting a single twist in the rubberband substantially improves grip between the knobs.
+ - There is room for improvement in filament usage and ergonomics for the Bottom, feel free to contribute designs!
 
 ### Updates:
   - 09.07.2024 - v1 released
@@ -27,7 +30,6 @@ To be used in the right hand.
 
 
 ## Printing:
-  - 0.4mm nozzle (Wider should not cause problems)
   - 0.2mm layer height
   - Standard strength (5 wall) profile
   - 15% gyroid or crosshatch infill
