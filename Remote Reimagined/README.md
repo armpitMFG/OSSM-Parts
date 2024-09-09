@@ -1,5 +1,7 @@
 # OSSM Remote Reimagined
 ![](Images/Renders/Remote%20Only.png)
+![360 Video (SFW)](Images/Renders/OSSM%20Remote%20Reimagined.gif)
+
 ## Summary    
 Reimagines the OSSM Remote in single-handed form factor allowing control of Speed and Depth knobs (and click) with just one thumb.  
 To be used in the right hand.
@@ -10,8 +12,6 @@ To be used in the right hand.
 
 ### [Demonstration Video (SFW)](https://www.youtube.com/watch?v=5V_SXpUnVo4) 
 
-### [360 Video (SFW)](Images/Renders/OSSM%20Remote%20Reimagined.avi)  
-
 
 ### Bill Of Materials
     2x M4-10mm
@@ -19,7 +19,9 @@ To be used in the right hand.
 
 ### Notes:
  - Double check ***ALL*** support remnants are cleaned off the screen frame portion of the Board Interface before tightening down
- - I found that putting a single twist in the rubberband substantially improves grip between the knobs.
+     - Use caution/common-sense when placing the "Board Interface" on, if it feels like it's touching the screen component don't force it.  
+Please message me and I will add additional clearance, I'm unsure the clearance needed to cover variance in boards but wanted to keep it tight-ish
+ - I found that putting a single twist in the rubberband improves grip between the knobs.
  - There is room for improvement in filament usage and ergonomics for the Bottom, feel free to contribute designs!
 
 ### Updates:
