@@ -1,4 +1,7 @@
+_This is a concept for an organization structure for OSSM repo_  
+
     //TODO Fill this out more.
+
 
 Need a specific file? Submit a PR against this readme.  
 
