@@ -1,5 +1,11 @@
-    //TODO Fill this out more.
+# OSSM Default
 
+### Summary
+This is where source files can be found for select OSSM Default parts.  
+Fusion and STEP where possible.
+
+
+## Requests
 
 Need a specific file? Submit a PR against this readme.  
 
