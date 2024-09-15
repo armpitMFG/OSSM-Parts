@@ -18,9 +18,9 @@ Supports required for:
   - OSSM - Body - 2.x AIO - Cover (any)
   - OSSM - Body - 2.x AIO - Middle
 
+I recommend using a raft on "OSSM - Body - 2.x AIO - Cover", this will help with support removal as well.
+
 It's a lot of support, but it's a small part.  
 Possibly can optimize some of this out in a future rev.  
-
-I recommend using a raft on "OSSM - Body - 2.x AIO - Cover", this will help with support removal as well.
 
 ![](../Images/Print/Print.png)  
