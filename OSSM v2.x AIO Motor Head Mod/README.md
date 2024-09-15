@@ -14,17 +14,19 @@ The JST-PH 4 pin header will be in close proximity to the motor pulley.
 I believe I have included enough clearance for a comfortable margin of safety if you remove slack from your cables.  
 If this makes you nervous, wait for a fully contained remix that may never come.   
 
-### Capacitor size support  
+
+## Capacitor size support
 ### Choose a cover based on what size capacitor you have
 - Cover - Default
   - Up to 12mm diameter
 - Cover - Extra Clearance
   - Up to 18mm diameter
 
- ### Requires a motor ring with cable passthru:  
-- [PitClamp Mini - Ring - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/STEP/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))   
 
-### [Print Files](Files/)  
+
+## [Print Files](Files/)  
+### Requires a motor ring with cable passthru:  
+- [PitClamp Mini - Ring - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/STEP/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))   
 
 
 ### Bill Of Materials
