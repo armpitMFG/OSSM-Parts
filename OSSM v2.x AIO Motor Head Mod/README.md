@@ -1,5 +1,6 @@
 # OSSM v2.x Board AIO Motor Head Mod
 ![](Images/Renders/Primary.png)
+![](Images/AIO_Holding.jpg)
 
 ## Summary    
 This is a modification for the Default OSSM Body Motor Head that houses the v2.x Reference Board as part of the Motor Head.  
