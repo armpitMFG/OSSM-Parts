@@ -26,12 +26,19 @@ If this makes you nervous, wait for a fully contained remix that may never come.
 
 ## [Print Files](Files/)  
 ### Requires a motor ring with cable passthru:  
-- [PitClamp Mini - Ring - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/STEP/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))   
+- [PitClamp Mini - Ring - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/STEP/PitClamp%20Mini%20-%20Ring%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))  
 
+OR   
+
+- [PitClamp Mini - Ring v1.1 - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/FUTURE/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/FUTURE/STEP/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))
+    - This is an experimental, but likely future standard, ring that will support attaching a rear motor cover.
+    - BOM for this ring
+      - [4x M5 Hex Coupling Nuts 20mm](https://www.amazon.com/uxcell-0-8-Pitch-Length-Stainless-Coupling/dp/B07JPYF4DC/)
+      - 4x M5x35 Socket Head Cap Screw
 
 ### Bill Of Materials
-    4x M3x10 (12 max)
-    2x M3x15 (20 max)
+    4x M3x10 (12 max) Socket Head Cap Screw
+    2x M3x15 (20 max) Socket Head Cap Screw
     4x M3 Nuts
     Plus standard hardware for:
       OSSM Body
