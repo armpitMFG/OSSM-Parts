@@ -49,6 +49,7 @@ Plug motor cable into motor
 Slide Rear into position against Ring Interface
 Secure Rear using 3x M4x25  
 
+![](Images/Assembly.png)
 
 ## Updates
   - 09.30.2024 - v1.0 Release
