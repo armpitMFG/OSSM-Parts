@@ -1,5 +1,5 @@
 # PitClamp Mini Motor Cover
-![](Images/Renders/Vented.png)
+![](Images/Renders/VentedInterface.png)
 
 ## Summary    
 This is a motor cover for OSSM setups that utilize the [PitClamp Mini](https://github.com/armpitMFG/PitClamp-Mini) mounting system combined with the [OSSM v2.x Board AIO Motor Head Mod](https://github.com/armpitMFG/OSSM-Parts/tree/main/OSSM%20v2.x%20AIO%20Motor%20Head%20Mod)  
@@ -46,7 +46,7 @@ Insert 3x M4 nuts into Ring Interface nut slots
 Slide Ring Interface into position against Ring v1.1 with cable routed  
 Secure Ring Interface using 4x M5x10 into Hex Coupling Nuts  
 Plug motor cable into motor  
-Slide Rear into position against Ring Interface
+Slide Rear into position against Ring Interface  
 Secure Rear using 3x M4x25  
 
 ![](Images/Assembly.png)
