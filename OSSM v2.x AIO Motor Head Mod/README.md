@@ -7,6 +7,11 @@ This turns the OSSM electronics into a self-contained unit; Just add power and a
 This replaces the Middle and Cover of a Default setup, with an ***optional*** matching Bottom.  
 
 
+### Motor Support
+- 57AIM15
+- 57AIM30
+
+
 To be used in a [PitClamp Mini](https://github.com/armpitMFG/PitClamp-Mini) setup.
 
 **I'm considering this an experimental print.**  
