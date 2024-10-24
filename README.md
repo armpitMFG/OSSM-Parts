@@ -1,7 +1,7 @@
 # OSSM-Parts
 
 ### Summary 
-- Parts I've designed/remixed for improving the OSSM experience
+- Parts designed/remixed for improving the OSSM experience
 - Model assets (motors, PCBs, etc) to assist designing or rendering 
 - Select OSSM Default parts for easier locating
 
