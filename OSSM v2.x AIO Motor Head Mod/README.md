@@ -35,7 +35,7 @@ If this makes you nervous, wait for a fully contained remix that may never come.
 
 OR   
 
-- [PitClamp Mini - Ring v1.1 - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/FUTURE/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%20Default%20-%205mm%20Offset.stl) ([.STEP](https://github.com/armpitMFG/PitClamp-Mini/blob/main/Files/Rings/FUTURE/STEP/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%20Default%20-%205mm%20Offset.step))
+- [PitClamp Mini - Ring v1.1 - 57AIM - Default - 5mm Offset.stl](https://github.com/armpitMFG/OSSM-Parts/blob/main/OSSM%20Motor%20Cover/Files/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%205mm%20Offset%20%2BPassthru.stl) ([.STEP](https://github.com/armpitMFG/OSSM-Parts/blob/main/OSSM%20Motor%20Cover/Files/STEP/PitClamp%20Mini%20-%20Ring%20v1.1%20-%2057AIM%20-%205mm%20Offset%20%2BPassthru.step))
     - This is an experimental, but likely future standard, ring that will support attaching a rear motor cover.
     - BOM for this ring
       - [4x M5 Hex Coupling Nuts 20mm](https://www.amazon.com/uxcell-0-8-Pitch-Length-Stainless-Coupling/dp/B07JPYF4DC/)
