@@ -24,7 +24,7 @@ If this makes you nervous, wait for a fully contained remix that may never come.
 ### Choose a cover based on what size capacitor you have
 - Cover - Default
   - Up to 12mm diameter
-- Cover - Extra Clearance
+- Cover - Extra Clearance (This is the recommended default cover)
   - Up to 18mm diameter
 
 
