@@ -43,7 +43,7 @@ OR
 
 ### Bill Of Materials
     4x M3x10 (12 max) Socket Head Cap Screw
-    2x M3x15 (20 max) Socket Head Cap Screw
+    2x M3x20 Socket Head Cap Screw
     4x M3 Nuts
     Plus standard hardware for:
       OSSM Body
