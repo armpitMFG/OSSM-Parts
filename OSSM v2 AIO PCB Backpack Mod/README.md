@@ -31,8 +31,8 @@ Interlocking interface helps prevent fluid intrusion.
 ## Bill Of Materials
 ![](Images/Photos/Parts1.jpg)
 
-  - 2x M3x25 Socket Head Cap Screw 
-  - 5x M3x12 Socket Head Cap Screw
+  - 3x M3x20 Socket Head Cap Screw 
+  - 4x M3x12 Socket Head Cap Screw
     - (Slightly longer is fine)
   - 7x M3 Nut 
     - (4 are from original cover)
@@ -54,7 +54,7 @@ Interlocking interface helps prevent fluid intrusion.
 8. Insert "Backpack - Wire Cover" into place over the wire between "Backpack - Base" and "Ring v1.1". The smaller ridge fits into the Ring passthru hole.  
 9. Lean the OSSM Reference Board out of the way and finish tightening the two lower Base screws while securing the Wire Cover in place. (Hold nuts in place with a small tool if they spin in place)  
 10. Finish tightening the two upper Base screws  
-11. Set "Backpack - Cap" in place and secure using 2x M3x25 and 1x M3x12 (Up to M3x25), ensuring the recessed nuts are tightened against.
+11. Set "Backpack - Cap" in place and secure using 3x M3x20 (Up to M3x25), ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
   - 12.19.2024 - v2.0 Release
