@@ -36,6 +36,9 @@ Interlocking interface helps prevent fluid intrusion.
     - (Slightly longer is fine)
   - 7x M3 Nut 
     - (4 are from original cover)
+  - (FUTURE) cable relief add-on
+    - 2x M3x12
+    - 2x M3 Nut
 
 ## Assembly
 
