@@ -1,4 +1,9 @@
-# OSSM v2.x Board AIO Motor Head Mod
+# ! [DEPRECATED] !
+
+### This design has been iterated on.
+### Use [OSSM v2 AIO PCB Backpack Mod](https://github.com/armpitMFG/OSSM-Parts/tree/main/OSSM%20v2%20AIO%20PCB%20Backpack%20Mod) instead
+
+# [DEPRECATED] OSSM v2.x Board AIO Motor Head Mod
 ![](Images/Renders/Primary.png)
 
 ## Summary    
