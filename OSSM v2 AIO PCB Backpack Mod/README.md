@@ -17,7 +17,9 @@ Interlocking interface helps prevent fluid intrusion.
 
 ### Motor Support
 - 57AIM30
-- iHSV57 (No rear cover mod for this motor, no passthru ring, use 4pin header for motor signal)
+- iHSV57
+  - No cover mod for this motor, no passthru ring
+  - Use 4pin header for motor signal
 
 
 ## [Print Files](Files/)  
