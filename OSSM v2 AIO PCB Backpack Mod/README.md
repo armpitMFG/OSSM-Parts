@@ -12,8 +12,11 @@ Interlocking interface helps prevent fluid intrusion.
 
 
 ## Capacitor Support
-- Supports capacitors up to 14mm diameter
-- If your cap sits much higher than the top of the RJ45 port, let me know so I can make a taller Cap for you
+- Default - Supports capacitors up to 14mm diameter
+  - If your capacitor is basically flush with the top of RJ45, use this one
+- Extra Clearance - Supports capacitors up to 17mm diameter
+  - If your capacitor extends more than a couple mm beyond the RJ45, use this one
+  - NOTE: You will need to extend the 2x M3x20 bolts to M3x25 for this larger Backpack Cap
 
 ### Motor Support
 - 57AIM30
@@ -32,6 +35,7 @@ Interlocking interface helps prevent fluid intrusion.
 ![](Images/Photos/Parts1.jpg)
 
   - 3x M3x20 Socket Head Cap Screw 
+    - (Replace two with 2x M3x25 if using Extra Clearance Cap)
   - 4x M3x12 Socket Head Cap Screw
     - (Slightly longer is fine)
   - 7x M3 Nut 
@@ -61,7 +65,8 @@ Interlocking interface helps prevent fluid intrusion.
 
 ## Printing
 
-**Recommend using preconfigured 3mf file - [OSSM v2 AIO PCB Backpack Mod.3mf](Files/Preconfigured%203mf%20Files/)** 
+**Recommend using preconfigured 3mf file - [OSSM v2 AIO PCB Backpack Mod.3mf](Files/Preconfigured%203mf%20Files/)**  
+Just pick the Backpack Cap you want to keep and remove the others.
 
     0.2mm layer height
     Standard strength (5 wall) profile
