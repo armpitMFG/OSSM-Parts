@@ -12,11 +12,7 @@ Interlocking interface helps prevent fluid intrusion.
 
 
 ## Capacitor Support
-- Default - Supports capacitors up to 14mm diameter
-  - If your capacitor is basically flush with the top of RJ45, use this one
-- Extra Clearance - Supports capacitors up to 17mm diameter
-  - If your capacitor extends more than a couple mm beyond the RJ45, use this one
-  - NOTE: You will need to extend the 2x M3x20 bolts to M3x25 for this larger Backpack Cap
+- Supports capacitors up to 18mm diameter, should fit all existing v2.x reference boards
 
 ### Motor Support
 - 57AIM30
@@ -34,8 +30,7 @@ Interlocking interface helps prevent fluid intrusion.
 ## Bill Of Materials
 ![](Images/Photos/Parts1.jpg)
 
-  - 3x M3x20 Socket Head Cap Screw 
-    - (Replace two with 2x M3x25 if using Extra Clearance Cap)
+  - 3x M3x20 Socket Head Cap Screw
   - 4x M3x12 Socket Head Cap Screw
     - (Slightly longer is fine)
   - 7x M3 Nut 
@@ -62,6 +57,7 @@ Interlocking interface helps prevent fluid intrusion.
 
 ## Updates
   - 12.19.2024 - v2.0 Release
+  - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
 
 ## Printing
 
