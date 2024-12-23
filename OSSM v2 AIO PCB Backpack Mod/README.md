@@ -43,7 +43,8 @@ Interlocking interface helps prevent fluid intrusion.
 
 ![](Images/Photos/CableRouting.jpg)
 
-1. If you plan to use a Motor Cover, follow that install procedure first.  
+0. If you plan to use a Motor Cover, follow that install procedure first.  
+1. I recommend installing the 2x m3x12 + nuts for future cable strain relief now, too.
 2. Remove "OSSM - Body - Cover" if installed, ensure 4x M3 nuts are installed in "OSSM - Body - Middle" slots.  
 3. Route wires through "Backpack - Base". This is easiest if you are able to feed individual wires through, but the hole should accommodate the 4 pin plug if it is inserted before the power leads.  
 4. Set the Base in place on "OSSM - Body - Middle" and secure it loosely with 4x M3x12 screws.  
