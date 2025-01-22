@@ -54,11 +54,12 @@ Interlocking interface helps prevent fluid intrusion.
 9. Insert "Backpack - Wire Cover" into place over the wire between "Backpack - Base" and "Ring v1.1". The smaller ridge fits into the Ring passthru hole.  
 10. Lean the OSSM Reference Board out of the way and finish tightening the two lower Base screws while securing the Wire Cover in place. (Hold nuts in place with a small tool if they spin in place)  
 11. Finish tightening the two upper Base screws  
-12. Set "Backpack - Cap" in place and secure using 3x M3x20 (Up to M3x25), ensuring the recessed nuts are tightened against and did not slide out of place.
+12. Set "Backpack - Cap" in place and secure using 3x M3x20, ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
   - 12.19.2024 - v2.0 Release
   - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
+  - 01.22.2025 - Corrected docs M3 bolt spec. Limited to 20mm.
 
 ## Printing
 
