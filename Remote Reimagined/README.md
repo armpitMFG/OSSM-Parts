@@ -25,6 +25,7 @@ Please message me and I will add additional clearance, I'm unsure the clearance 
  - There is room for improvement in filament usage and ergonomics for the Bottom, feel free to contribute designs!
 
 ### Updates:
+  - 01.22.2025 - Added V1.1 Board Interface that gives more space. Untested print. [Images/V1.1.png](Images/V1.1.png)
   - 09.09.2024 - Increase pulley height by 1mm to increase reliability
   - 09.08.2024 - Add **Accent Stripe** file
   - 09.07.2024 - v1 released
