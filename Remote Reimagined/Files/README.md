@@ -1,4 +1,4 @@
-Check out the Preconfigured 3mf File that contains all required parts with support and other print settings preconfigured. Just select your filament and send the job to your printer.
+
 
 
 ## Printing:
