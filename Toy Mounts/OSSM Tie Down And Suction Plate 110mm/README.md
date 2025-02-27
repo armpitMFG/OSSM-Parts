@@ -13,7 +13,7 @@ Overall plate size of 110mm diameter
 ## Bill Of Materials
 ![](Images/Photos/Parts1.jpg)
 
-  - 6mm (1/4") solid latex tubing 
+  - 6mm/7mm (1/4") solid latex tubing 
     - 2x lengths cut to ~12"
 
 ## Assembly
