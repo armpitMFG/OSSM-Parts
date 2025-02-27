@@ -18,7 +18,7 @@ Overall plate size of 110mm diameter
 
 ## Assembly
 
-1. Tie an "ininity" knot at all four ends of the latex tubing
+1. Tie an "infinity" knot at all four ends of the latex tubing
 2. Route tubing through holes and around toy to secure to base  
 
     ![](Images/Photos/Assembly1.jpg)
