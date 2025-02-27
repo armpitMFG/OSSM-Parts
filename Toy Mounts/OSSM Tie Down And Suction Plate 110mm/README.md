@@ -34,6 +34,6 @@ Overall plate size of 110mm diameter
 No supports required.
 
 A smooth finish for suction cup can be achieved by using a smooth PEI plate  
-**Smooth PEI plate preconfigured 3mf file - [OSSM v2 AIO PCB Backpack Mod.3mf](Files/Preconfigured%203mf%20Files/)**  
+**Smooth PEI plate preconfigured 3mf file - [OSSM Tie Down And Suction Plate 110mm (Smooth PEI).3mf](Files/Preconfigured%203mf%20Files/)**  
 
 ![](Images/Print/Print.png)  
