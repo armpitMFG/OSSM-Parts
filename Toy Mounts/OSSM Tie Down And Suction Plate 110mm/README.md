@@ -18,10 +18,11 @@ Overall plate size of 110mm diameter
 
 ## Assembly
 
-![](Images/Photos/CableRouting.jpg)
-
 1. Tie an "ininity" knot at all four ends of the latex tubing
-2. Route tubing through holes and around toy to secure to base
+2. Route tubing through holes and around toy to secure to base  
+
+    ![](Images/Photos/Assembly1.jpg)
+    ![](Images/Photos/Assembly2.jpg)
 
 ## Printing
     0.2mm layer height
