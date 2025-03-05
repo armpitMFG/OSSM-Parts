@@ -45,7 +45,7 @@ Interlocking interface helps prevent fluid intrusion.
 
 0. If you plan to use a Motor Cover, follow that install procedure first.  
 1. Install the 2x m3x12 + nuts with cable strain relief (or without a relief installed if you plan to use one in the future).
-3. Remove "OSSM - Body - Cover" if installed, ensure 4x M3 nuts are installed in "OSSM - Body - Middle" slots.  
+3. Remove "OSSM - Body - Cover" if installed, ensure 4x M3 nuts are installed in "OSSM - Body (Middle and Bottom)" slots.  
 4. Route wires through "Backpack - Base". This is easiest if you are able to feed individual wires through, but the hole should accommodate the 4 pin plug if it is inserted before the power leads.  
 5. Set the Base in place on "OSSM - Body - Middle" and secure it loosely with 4x M3x12 screws.  
 6. Insert 3x M3 nuts into Base inner slots. Be careful to keep these aligned in future steps.  
