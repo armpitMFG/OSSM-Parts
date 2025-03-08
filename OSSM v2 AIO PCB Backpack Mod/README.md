@@ -4,7 +4,7 @@
 ## Summary   
 This is a mod that converts the default "OSSM - Body - Cover" into a PCB enclosure with cable routing designed to pair up with my other mod - [OSSM Motor Cover](https://github.com/armpitMFG/OSSM-Parts/tree/main/OSSM%20Motor%20Cover) - on 57AIM30 "Gold Motor" setups.  
 
-This OSSM setup utilizes the [PitClamp Mini](https://github.com/armpitMFG/PitClamp-Mini) mounting system.
+This OSSM setup utilizes the [PitClamp Mini](https://github.com/KinkyMakers/OSSM-hardware/tree/master/Printed%20Parts/Mounting/PitClamp%20Mini) mounting system.
 
 Interlocking interface helps prevent fluid intrusion.
 
@@ -23,19 +23,19 @@ Interlocking interface helps prevent fluid intrusion.
 
 ## [Print Files](Files/)  
  - All parts are intended to print in the provided file orientation (as seen in slicer preview below)  
-   - Auto-orient may position "Backpack - Cap" incorrectly
+   - Auto-orient may position parts incorrectly
  - Variation available for covered RJ45 port (Useful if you have a wireless remote)
  - There may be various design tricks that take advantage of 0.2mm layer height in this default orientation
 
 ## Bill Of Materials
 ![](Images/Photos/Parts1.jpg)
 
-  - 3x M3x20 Socket Head Cap Screw
+  - 2x M3x20 (M3x25 Max) Socket Head Cap Screw
   - 4x M3x12 Socket Head Cap Screw
     - (Slightly longer is fine)
-  - 7x M3 Nut 
+  - 6x M3 Nut 
     - (4 are from original cover)
-  - (FUTURE) cable strain relief add-on
+  - (Optional) cable strain relief add-on
     - 2x M3x12
     - 2x M3 Nut
 
@@ -57,6 +57,7 @@ Interlocking interface helps prevent fluid intrusion.
 12. Set "Backpack - Cap" in place and secure using 3x M3x20, ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
+  - 03.08.2025 - v2.2 Release (Bottom and Cap right side connection changed for reduced BOM and more reliable assembly)
   - 12.19.2024 - v2.0 Release
   - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
   - 01.22.2025 - Corrected docs M3 bolt spec. Limited to 20mm.
@@ -69,10 +70,6 @@ Just pick the Backpack Cap you want to keep and remove the others.
     0.2mm layer height
     Standard strength (5 wall) profile
     20% crosshatch or gyroid infill
-    Normal/snug (auto) supports
-    Supports on buildplate only
-  
-Supports required for:
-  - OSSM v2 AIO PCB Backpack - Cap
+    No supports required
 
 ![](Images/Print/Print.png)  
