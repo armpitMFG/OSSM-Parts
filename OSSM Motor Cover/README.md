@@ -27,7 +27,7 @@ There are various design tricks that take advantage of 0.2mm layer height in thi
 
 ## Bill Of Materials
   - 3x M4x25 Socket Head Cap Screw
-  - 3x N4 Nut
+  - 3x M4 Hex Nut
   - [4x M5 Hex Coupling Nuts 20mm](https://www.amazon.com/uxcell-0-8-Pitch-Length-Stainless-Coupling/dp/B07JPYF4DC/) (Just for reference, likely better prices around)
   - 4x M5x10 Socket Head Cap Screw
   - 4x M5x35 Socket Head Cap Screw 
