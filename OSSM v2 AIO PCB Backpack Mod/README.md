@@ -30,11 +30,11 @@ Interlocking interface helps prevent fluid intrusion.
   - 2x M3x20 (M3x25 Max) Socket Head Cap Screw
   - 4x M3x12 Socket Head Cap Screw
     - (Slightly longer is fine)
-  - 6x M3 Nut 
+  - 6x M3 Hex Nut 
     - (4 are from original cover)
   - (Optional) cable strain relief add-on
     - 2x M3x12
-    - 2x M3 Nut
+    - 2x M3 Hex Nut
   - (Optional) Magnetic Faceplate
     - 2x 10x2mm Neodymium magnets
 
@@ -63,6 +63,7 @@ Interlocking interface helps prevent fluid intrusion.
 11. Set "Backpack - Cap" in place and secure using 3x M3x20, ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
+  - 04.13.2025 - v2.3 Release (Bottom M3 nut slots improved for assembly and printability, cable passthru widened, retention ridges added for 10x2 magnets)
   - 03.08.2025 - v2.2 Release (Bottom and Cap right side connection changed for reduced BOM and more reliable assembly)
   - 12.19.2024 - v2.0 Release
   - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
