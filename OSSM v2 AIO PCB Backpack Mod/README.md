@@ -27,11 +27,10 @@ Interlocking interface helps prevent fluid intrusion.
  - There may be various design tricks that take advantage of 0.2mm layer height in this default orientation
 
 ## Bill Of Materials
-  - 2x M3x20 (M3x25 Max) Socket Head Cap Screw
+  - 2x M3x25 Socket Head Cap Screw
   - 4x M3x12 Socket Head Cap Screw
-    - (Slightly longer is fine)
   - 6x M3 Hex Nut 
-    - (4 are from original cover)
+    - (4 are from original Cover)
   - (Optional) cable strain relief add-on
     - 2x M3x12
     - 2x M3 Hex Nut
