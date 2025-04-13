@@ -1,5 +1,9 @@
 # OSSM v2 All In One PCB Backpack Mod
-![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Cap%20Removed.png)
+
+|![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Cap%20Removed.png)|![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right.png)|
+| --- | --- |
+
+
 
 ## Summary   
 This is a mod that converts the default "OSSM - Body - Cover" into a PCB enclosure with cable routing designed to pair up with my other mod - [OSSM Motor Cover](https://github.com/armpitMFG/OSSM-Parts/tree/main/OSSM%20Motor%20Cover) - on 57AIM30 "Gold Motor" setups.  
