@@ -41,6 +41,10 @@ Interlocking interface helps prevent fluid intrusion.
   - (Optional) Magnetic Faceplate
     - 2x 10x2mm Neodymium magnets
 
+
+Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-backpack-mod
+
+
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Hardware.png" style="width: 32%; height: auto;" />
   <img src="Images/Workspace/AIO PCB Backpack - Back Right Ghost.png" style="width: 32%; height: auto;" />
