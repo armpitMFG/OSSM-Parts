@@ -45,11 +45,8 @@ Interlocking interface helps prevent fluid intrusion.
 Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-backpack-mod
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Hardware.png" style="width: 32%; height: auto;" />
-  <img src="Images/Workspace/AIO PCB Backpack - Back Right Ghost.png" style="width: 32%; height: auto;" />
-  <img src="Images/Workspace/AIO PCB Backpack - Back Right.png" style="width: 32%; height: auto;" />
-</div>
+|![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Hardware.png) |![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Ghost.png) |![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right.png)
+| --- | --- | --- |
 
 ## Assembly
 
@@ -72,14 +69,15 @@ Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-b
 ## Updates
   - 04.13.2025 - v2.3 Release (Bottom M3 nut slots improved for assembly and printability, cable passthru widened, retention ridges added for 10x2 magnets)
   - 03.08.2025 - v2.2 Release (Bottom and Cap right side connection changed for reduced BOM and more reliable assembly)
-  - 12.19.2024 - v2.0 Release
-  - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
   - 01.22.2025 - Corrected docs M3 bolt spec. Limited to 20mm.
+  - 12.21.2024 - v2.01 Cap update (Universal size, easier printing, magnet inserts)
+  - 12.19.2024 - v2.0 Release
+
 
 ## Printing
 
 **Recommend using preconfigured 3mf file - [OSSM v2 AIO PCB Backpack Mod.3mf](Files/Preconfigured%203mf%20Files/)**  
-Just pick the Backpack Cap you want to keep and remove the others.
+Just pick the Backpack Cap you want to keep and remove the other.
 
     0.2mm layer height
     Standard strength (5 wall) profile
