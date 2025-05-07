@@ -9,6 +9,8 @@ Interlocking interface helps prevent fluid intrusion.
 The cover parts come in different levels of ventilation or sealed.  
 Choose what will work best for your use; Motor Cover pieces are interchangable.  
 
+Print+Part kits: https://www.etsy.com/listing/1866948824/ossm-motor-cover-mod-print-hardware-kit
+
 ### Requires v1.1 PitClamp Mini Motor Ring  
 Compatible with all PitClamp Mini bases, just needs a new motor ring to support the cover mounting.
 
