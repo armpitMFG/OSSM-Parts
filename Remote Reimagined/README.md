@@ -8,6 +8,8 @@ To be used in the right hand.
 
 "Fail-safe" by still allowing traditional use of both knobs.
 
+Print+Part kits: https://www.etsy.com/listing/4295260669/ossm-remote-reimagined-mod-experimental
+
 ### [Print Files](Files/)  
 
 ### [Demonstration Video (SFW)](https://www.youtube.com/watch?v=5V_SXpUnVo4) 

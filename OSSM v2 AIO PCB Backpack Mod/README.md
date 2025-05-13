@@ -12,6 +12,8 @@ This OSSM setup utilizes the [PitClamp Mini](https://github.com/KinkyMakers/OSSM
 
 Interlocking interface helps prevent fluid intrusion.
 
+Print+Part kits: https://www.etsy.com/listing/1861883228/ossm-all-in-one-pcb-backpack-mod-print
+
 ### Requires v1.1 PitClamp Mini Motor Ring  
 
 ## Capacitor Support

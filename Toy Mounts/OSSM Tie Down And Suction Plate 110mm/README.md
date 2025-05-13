@@ -7,6 +7,8 @@ This is a tiedown plate with a pattern of 6mm mounting holes for securing latex 
 Compatibility with suction bases up to 90mm diameter  
 Overall plate size of 110mm diameter
 
+Print kits: https://www.etsy.com/listing/1900397333/tie-down-suction-plate-various-sizes-for
+
 ## [Print Files](Files/)  
  - Intended to print in the provided file orientation (as seen in slicer preview below)  
 
