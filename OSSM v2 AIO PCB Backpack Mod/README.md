@@ -66,7 +66,7 @@ Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-b
 8. Insert "Backpack - Wire Cover" into place over the wire between "Backpack - Base" and "Ring v1.1". The smaller ridge fits into the Ring passthru hole.  
 9.  Lean the OSSM Reference Board out of the way and finish tightening the two lower Base screws while securing the Wire Cover in place. (Hold nuts in place with a small tool if they spin in place)  
 10. Finish tightening the two upper Base screws  
-11. Set "Backpack - Cap" in place and secure using 3x M3x20, ensuring the recessed nuts are tightened against and did not slide out of place.
+11. Set "Backpack - Cap" in place, sliding the right side into the grooves, and secure using 2x M3x25, ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
   - 04.13.2025 - v2.3 Release (Bottom M3 nut slots improved for assembly and printability, cable passthru widened, retention ridges added for 10x2 magnets)
