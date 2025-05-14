@@ -69,6 +69,7 @@ Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-b
 11. Set "Backpack - Cap" in place, sliding the right side into the grooves, and secure using 2x M3x25, ensuring the recessed nuts are tightened against and did not slide out of place.
 
 ## Updates
+  - 05.13.2025 - v2.3b Base Release (M3 nut slot tolerance increased by 0.2mm)
   - 04.13.2025 - v2.3 Release (Bottom M3 nut slots improved for assembly and printability, cable passthru widened, retention ridges added for 10x2 magnets)
   - 03.08.2025 - v2.2 Release (Bottom and Cap right side connection changed for reduced BOM and more reliable assembly)
   - 01.22.2025 - Corrected docs M3 bolt spec. Limited to 20mm.
