@@ -12,7 +12,7 @@ This OSSM setup utilizes the [PitClamp Mini](https://github.com/KinkyMakers/OSSM
 
 Interlocking interface helps prevent fluid intrusion.
 
-Print+Part kits: https://www.etsy.com/listing/1861883228/ossm-all-in-one-pcb-backpack-mod-print
+Print+Part kits: https://armpitmfg.etsy.com/listing/1861883228
 
 ### Requires v1.1 PitClamp Mini Motor Ring  
 
@@ -44,7 +44,7 @@ Print+Part kits: https://www.etsy.com/listing/1861883228/ossm-all-in-one-pcb-bac
     - 2x 10x2mm Neodymium magnets
 
 
-Print+Part kit: https://www.etsy.com/listing/1861883228/ossm-v2-all-in-one-pcb-backpack-mod
+Print+Part kit: https://armpitmfg.etsy.com/listing/1861883228
 
 
 |![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Hardware.png) |![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right%20Ghost.png) |![](Images/Workspace/AIO%20PCB%20Backpack%20-%20Back%20Right.png)
