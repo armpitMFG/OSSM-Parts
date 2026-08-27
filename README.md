@@ -8,6 +8,14 @@
 ### Print+Hardware Kits available on my Etsy - [https://armpitMFG.etsy.com](https://armpitMFG.etsy.com)
 
 ## Licensing
-This will vary by part in this repo, the majority being "MIT License" for full open source.  
-There will be an occasional "CC BY-NC-SA 4.0" non-commercial for parts that have taken considerable effort.  
-If LICENSE.md is not present - assume "MIT License (c) Kinky Makers 2020".
+
+Open-source hardware under the
+**[CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE)**
+(`CERN-OHL-S-2.0`), the same licence as the
+[OSSM project](https://github.com/KinkyMakers/OSSM-hardware).
+
+Some parts are derived from OSSM project source and carry both armpitMFG's and
+the OSSM project's copyright. Some items are third-party work not covered by
+this licence, notably `Model Assets` and `OSSM Tools/just_b Wrench`.
+
+Per-part copyright and provenance: [NOTICE.md](NOTICE.md).
